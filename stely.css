@@ -16,6 +16,20 @@ body {
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+#cabezera {
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+}
+
+#cabezera #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: o.8em;
+}
 
 #container h1 {
 font-size: 25px;
